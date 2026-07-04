@@ -1,0 +1,27 @@
+{
+  "name": "vibe-food-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiladriKrSahoo-dev/vibe-food-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiladriKrSahoo-dev/vibe-food-app/issues"
+  },
+  "homepage": "https://github.com/NiladriKrSahoo-dev/vibe-food-app#readme",
+  "dependencies": {
+    "@huggingface/inference": "^4.13.22",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
